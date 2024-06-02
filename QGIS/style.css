@@ -1,0 +1,50 @@
+.legend {
+    padding: 10px;
+    background-color: white;
+    border-radius: 10px;
+}
+
+
+.inline-legend {
+    display: flex;
+    align-items: center;
+    gap: 5px;
+}
+
+.layoutFilter {
+    z-index: 999; 
+    bottom: 10; 
+    left: 50%; 
+    transform: translate(-50%)
+}
+
+.cardFilter {
+    background-color: white;
+    
+    border-radius: 20px;
+    padding-block: 10px;
+    padding-inline: 20px;
+
+    display: flex;
+    gap: 20px;
+}
+
+#map {
+    height: 100%;
+}
+.legend {
+    background: white;
+    line-height: 1.5em;
+    padding: 10px;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
+    border-radius: 5px;
+}
+.inline-legend {
+    display: flex;
+    align-items: center;
+}
+.inline-legend div {
+    width: 20px;
+    height: 20px;
+    margin-right: 5px;
+}

@@ -1,0 +1,1848 @@
+{
+    "type": "FeatureCollection",
+    "name": "Faskes Lengkap New",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "LUAS": 0.0,
+                "REMARK": "Fasilitas Kesehatan Lainnya",
+                "TIPSHT": 999,
+                "LCODE": "GI0020",
+                "NAMOBJ_2": "TROMPOASRI",
+                "REMARK_2": "Wilayah Administrasi Keluruhan/Desa",
+                "LUASWH": 0.0,
+                "LCODE_2": "BA0020",
+                "WADMKC": "JABON",
+                "WADMKK": "SIDOARJO",
+                "WADMPR": "JAWA TIMUR",
+                "TIPADM": 0,
+                "SHAPE_Leng": 0.05993777468,
+                "SHAPE_Area": 0.00020006313
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.736058725000021,
+                    -7.56890324699998,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "LUAS": 0.0,
+                "REMARK": "Fasilitas Kesehatan Lainnya",
+                "TIPSHT": 999,
+                "LCODE": "GI0020",
+                "NAMOBJ_2": "JEMIRAHAN",
+                "REMARK_2": "Wilayah Administrasi Keluruhan/Desa",
+                "LUASWH": 0.0,
+                "LCODE_2": "BA0020",
+                "WADMKC": "JABON",
+                "WADMKK": "SIDOARJO",
+                "WADMPR": "JAWA TIMUR",
+                "TIPADM": 0,
+                "SHAPE_Leng": 0.04837311735,
+                "SHAPE_Area": 0.00010823394
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.737785586000086,
+                    -7.550251246999949,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "LUAS": 0.0,
+                "REMARK": "Fasilitas Kesehatan Lainnya",
+                "TIPSHT": 999,
+                "LCODE": "GI0020",
+                "NAMOBJ_2": "BALONGTANI",
+                "REMARK_2": "Wilayah Administrasi Keluruhan/Desa",
+                "LUASWH": 0.0,
+                "LCODE_2": "BA0020",
+                "WADMKC": "JABON",
+                "WADMKK": "SIDOARJO",
+                "WADMPR": "JAWA TIMUR",
+                "TIPADM": 0,
+                "SHAPE_Leng": 0.07023155342,
+                "SHAPE_Area": 0.00014563947
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.74747246000004,
+                    -7.55226578099996,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "LUAS": 0.0,
+                "REMARK": "Fasilitas Kesehatan Lainnya",
+                "TIPSHT": 999,
+                "LCODE": "GI0020",
+                "NAMOBJ_2": "DUKUHSARI",
+                "REMARK_2": "Wilayah Administrasi Keluruhan/Desa",
+                "LUASWH": 0.0,
+                "LCODE_2": "BA0020",
+                "WADMKC": "JABON",
+                "WADMKK": "SIDOARJO",
+                "WADMPR": "JAWA TIMUR",
+                "TIPADM": 0,
+                "SHAPE_Leng": 0.05487681776,
+                "SHAPE_Area": 0.00013634943
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.721967677000066,
+                    -7.54861981199997,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "LUAS": 0.0,
+                "REMARK": "Fasilitas Kesehatan Lainnya",
+                "TIPSHT": 999,
+                "LCODE": "GI0020",
+                "NAMOBJ_2": "KEDUNGCANGKRING",
+                "REMARK_2": "Wilayah Administrasi Keluruhan/Desa",
+                "LUASWH": 0.0,
+                "LCODE_2": "BA0020",
+                "WADMKC": "JABON",
+                "WADMKK": "SIDOARJO",
+                "WADMPR": "JAWA TIMUR",
+                "TIPADM": 0,
+                "SHAPE_Leng": 0.07690426234,
+                "SHAPE_Area": 0.00014765661
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.71388067700002,
+                    -7.548444418999964,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "LUAS": 0.0,
+                "REMARK": "Fasilitas Kesehatan Lainnya",
+                "TIPSHT": 999,
+                "LCODE": "GI0020",
+                "NAMOBJ_2": "TAMBAKREJO",
+                "REMARK_2": "Wilayah Administrasi Keluruhan/Desa",
+                "LUASWH": 0.0,
+                "LCODE_2": "BA0020",
+                "WADMKC": "KREMBUNG",
+                "WADMKK": "SIDOARJO",
+                "WADMPR": "JAWA TIMUR",
+                "TIPADM": 0,
+                "SHAPE_Leng": 0.06644573486,
+                "SHAPE_Area": 0.00021038907
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.663138133000075,
+                    -7.543287765999935,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "LUAS": 0.0,
+                "REMARK": "Fasilitas Kesehatan Lainnya",
+                "TIPSHT": 999,
+                "LCODE": "GI0020",
+                "NAMOBJ_2": "KEDUNGSUMUR",
+                "REMARK_2": "Wilayah Administrasi Keluruhan/Desa",
+                "LUASWH": 0.0,
+                "LCODE_2": "BA0020",
+                "WADMKC": "KREMBUNG",
+                "WADMKK": "SIDOARJO",
+                "WADMPR": "JAWA TIMUR",
+                "TIPADM": 0,
+                "SHAPE_Leng": 0.03485345202,
+                "SHAPE_Area": 6.711572e-05
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.654106975000104,
+                    -7.534643890999973,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "LUAS": 0.0,
+                "REMARK": "Fasilitas Kesehatan Lainnya",
+                "TIPSHT": 999,
+                "LCODE": "GI0020",
+                "NAMOBJ_2": "KEL. JUWETKENONGO",
+                "REMARK_2": "Wilayah Administrasi Keluruhan/Desa",
+                "LUASWH": 0.0,
+                "LCODE_2": "BA0020",
+                "WADMKC": "PORONG",
+                "WADMKK": "SIDOARJO",
+                "WADMPR": "JAWA TIMUR",
+                "TIPADM": 0,
+                "SHAPE_Leng": 0.0508724224,
+                "SHAPE_Area": 7.955327e-05
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.69396994400006,
+                    -7.538408527999934,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "LUAS": 0.0,
+                "REMARK": "Fasilitas Kesehatan Lainnya",
+                "TIPSHT": 999,
+                "LCODE": "GI0020",
+                "NAMOBJ_2": "GLAGAHARUM",
+                "REMARK_2": "Wilayah Administrasi Keluruhan/Desa",
+                "LUASWH": 0.0,
+                "LCODE_2": "BA0020",
+                "WADMKC": "PORONG",
+                "WADMKK": "SIDOARJO",
+                "WADMPR": "JAWA TIMUR",
+                "TIPADM": 0,
+                "SHAPE_Leng": 0.0478212687,
+                "SHAPE_Area": 0.00012365787
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.726717553000071,
+                    -7.531869355999959,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "LUAS": 0.0,
+                "REMARK": "Fasilitas Kesehatan Lainnya",
+                "TIPSHT": 999,
+                "LCODE": "GI0020",
+                "NAMOBJ_2": "RENOKENONGO",
+                "REMARK_2": "Wilayah Administrasi Keluruhan/Desa",
+                "LUASWH": 0.0,
+                "LCODE_2": "BA0020",
+                "WADMKC": "PORONG",
+                "WADMKK": "SIDOARJO",
+                "WADMPR": "JAWA TIMUR",
+                "TIPADM": 0,
+                "SHAPE_Leng": 0.05893546786,
+                "SHAPE_Area": 0.00015942526
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.720097600000031,
+                    -7.532874249999963,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "LUAS": 0.0,
+                "REMARK": "Fasilitas Kesehatan Lainnya",
+                "TIPSHT": 999,
+                "LCODE": "GI0020",
+                "NAMOBJ_2": "KEL. SIRING",
+                "REMARK_2": "Wilayah Administrasi Keluruhan/Desa",
+                "LUASWH": 0.0,
+                "LCODE_2": "BA0020",
+                "WADMKC": "PORONG",
+                "WADMKK": "SIDOARJO",
+                "WADMPR": "JAWA TIMUR",
+                "TIPADM": 0,
+                "SHAPE_Leng": 0.0389239188,
+                "SHAPE_Area": 7.00331e-05
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.704645445000097,
+                    -7.526685764999968,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "LUAS": 0.0,
+                "REMARK": "Fasilitas Kesehatan Lainnya",
+                "TIPSHT": 999,
+                "LCODE": "GI0020",
+                "NAMOBJ_2": "PAMOTAN",
+                "REMARK_2": "Wilayah Administrasi Keluruhan/Desa",
+                "LUASWH": 0.0,
+                "LCODE_2": "BA0020",
+                "WADMKC": "PORONG",
+                "WADMKK": "SIDOARJO",
+                "WADMPR": "JAWA TIMUR",
+                "TIPADM": 0,
+                "SHAPE_Leng": 0.06959848923,
+                "SHAPE_Area": 0.00016778288
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.688894478000066,
+                    -7.526311730999964,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "LUAS": 0.0,
+                "REMARK": "Fasilitas Kesehatan Lainnya",
+                "TIPSHT": 999,
+                "LCODE": "GI0020",
+                "NAMOBJ_2": "KETAPANG",
+                "REMARK_2": "Wilayah Administrasi Keluruhan/Desa",
+                "LUASWH": 0.0,
+                "LCODE_2": "BA0020",
+                "WADMKC": "TANGGULANGIN",
+                "WADMKK": "SIDOARJO",
+                "WADMPR": "JAWA TIMUR",
+                "TIPADM": 0,
+                "SHAPE_Leng": 0.04336305136,
+                "SHAPE_Area": 0.00010205487
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.705039821000014,
+                    -7.519673156999943,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "LUAS": 0.0,
+                "REMARK": "Fasilitas Kesehatan Lainnya",
+                "TIPSHT": 999,
+                "LCODE": "GI0020",
+                "NAMOBJ_2": "GEMPOLSARI",
+                "REMARK_2": "Wilayah Administrasi Keluruhan/Desa",
+                "LUASWH": 0.0,
+                "LCODE_2": "BA0020",
+                "WADMKC": "TANGGULANGIN",
+                "WADMKK": "SIDOARJO",
+                "WADMPR": "JAWA TIMUR",
+                "TIPADM": 0,
+                "SHAPE_Leng": 0.07259975111,
+                "SHAPE_Area": 0.00017689659
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.722500212000114,
+                    -7.51256473199993,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "LUAS": 0.0,
+                "REMARK": "Fasilitas Kesehatan Lainnya",
+                "TIPSHT": 999,
+                "LCODE": "GI0020",
+                "NAMOBJ_2": "KALITENGAH",
+                "REMARK_2": "Wilayah Administrasi Keluruhan/Desa",
+                "LUASWH": 0.0,
+                "LCODE_2": "BA0020",
+                "WADMKC": "TANGGULANGIN",
+                "WADMKK": "SIDOARJO",
+                "WADMPR": "JAWA TIMUR",
+                "TIPADM": 0,
+                "SHAPE_Leng": 0.0360166431,
+                "SHAPE_Area": 7.4894e-05
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.707514697000079,
+                    -7.509026325999969,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "LUAS": 0.0,
+                "REMARK": "Fasilitas Kesehatan Lainnya",
+                "TIPSHT": 999,
+                "LCODE": "GI0020",
+                "NAMOBJ_2": "KALISAMPURNO",
+                "REMARK_2": "Wilayah Administrasi Keluruhan/Desa",
+                "LUASWH": 0.0,
+                "LCODE_2": "BA0020",
+                "WADMKC": "TANGGULANGIN",
+                "WADMKK": "SIDOARJO",
+                "WADMPR": "JAWA TIMUR",
+                "TIPADM": 0,
+                "SHAPE_Leng": 0.05166581886,
+                "SHAPE_Area": 9.4301e-05
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.697500929000057,
+                    -7.509502543999929,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "LUAS": 0.0,
+                "REMARK": "Fasilitas Kesehatan Lainnya",
+                "TIPSHT": 999,
+                "LCODE": "GI0020",
+                "NAMOBJ_2": "CANDIPARI",
+                "REMARK_2": "Wilayah Administrasi Keluruhan/Desa",
+                "LUASWH": 0.0,
+                "LCODE_2": "BA0020",
+                "WADMKC": "PORONG",
+                "WADMKK": "SIDOARJO",
+                "WADMPR": "JAWA TIMUR",
+                "TIPADM": 0,
+                "SHAPE_Leng": 0.03540060616,
+                "SHAPE_Area": 6.872678e-05
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.681385037000041,
+                    -7.516865544999973,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "LUAS": 0.0,
+                "REMARK": "Fasilitas Kesehatan Lainnya",
+                "TIPSHT": 999,
+                "LCODE": "GI0020",
+                "NAMOBJ_2": "SEMAMBUNG",
+                "REMARK_2": "Wilayah Administrasi Keluruhan/Desa",
+                "LUASWH": 0.0,
+                "LCODE_2": "BA0020",
+                "WADMKC": "JABON",
+                "WADMKK": "SIDOARJO",
+                "WADMPR": "JAWA TIMUR",
+                "TIPADM": 0,
+                "SHAPE_Leng": 0.05243360708,
+                "SHAPE_Area": 0.00013807353
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.768840539000053,
+                    -7.565326249999941,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "LUAS": 0.0,
+                "REMARK": "Fasilitas Kesehatan Lainnya",
+                "TIPSHT": 999,
+                "LCODE": "GI0020",
+                "NAMOBJ_2": "JEDONGCANGKRING",
+                "REMARK_2": "Wilayah Administrasi Keluruhan/Desa",
+                "LUASWH": 0.0,
+                "LCODE_2": "BA0020",
+                "WADMKC": "PRAMBON",
+                "WADMKK": "SIDOARJO",
+                "WADMPR": "JAWA TIMUR",
+                "TIPADM": 0,
+                "SHAPE_Leng": 0.07794086042,
+                "SHAPE_Area": 0.00018273514
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.605679365000015,
+                    -7.455861904999949,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "LUAS": 0.0,
+                "REMARK": "Fasilitas Kesehatan Lainnya",
+                "TIPSHT": 999,
+                "LCODE": "GI0020",
+                "NAMOBJ_2": "CANGKRINGTURI",
+                "REMARK_2": "Wilayah Administrasi Keluruhan/Desa",
+                "LUASWH": 0.0,
+                "LCODE_2": "BA0020",
+                "WADMKC": "PRAMBON",
+                "WADMKK": "SIDOARJO",
+                "WADMPR": "JAWA TIMUR",
+                "TIPADM": 0,
+                "SHAPE_Leng": 0.05805218419,
+                "SHAPE_Area": 0.00010793026
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.588247728000056,
+                    -7.453933578999965,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "LUAS": 0.0,
+                "REMARK": "Fasilitas Kesehatan Lainnya",
+                "TIPSHT": 999,
+                "LCODE": "GI0020",
+                "NAMOBJ_2": "KALIMATI",
+                "REMARK_2": "Wilayah Administrasi Keluruhan/Desa",
+                "LUASWH": 0.0,
+                "LCODE_2": "BA0020",
+                "WADMKC": "TARIK",
+                "WADMKK": "SIDOARJO",
+                "WADMPR": "JAWA TIMUR",
+                "TIPADM": 0,
+                "SHAPE_Leng": 0.09191888021,
+                "SHAPE_Area": 0.00024306027
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.547731930000054,
+                    -7.456566873999975,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "LUAS": 0.0,
+                "REMARK": "Fasilitas Kesehatan Lainnya",
+                "TIPSHT": 999,
+                "LCODE": "GI0020",
+                "NAMOBJ_2": "MERGOSARI",
+                "REMARK_2": "Wilayah Administrasi Keluruhan/Desa",
+                "LUASWH": 0.0,
+                "LCODE_2": "BA0020",
+                "WADMKC": "TARIK",
+                "WADMKK": "SIDOARJO",
+                "WADMPR": "JAWA TIMUR",
+                "TIPADM": 0,
+                "SHAPE_Leng": 0.06429901157,
+                "SHAPE_Area": 0.00013267859
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.527022679000083,
+                    -7.456449781999936,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "LUAS": 0.0,
+                "REMARK": "Fasilitas Kesehatan Lainnya",
+                "TIPSHT": 999,
+                "LCODE": "GI0020",
+                "NAMOBJ_2": "TARIK",
+                "REMARK_2": "Wilayah Administrasi Keluruhan/Desa",
+                "LUASWH": 0.0,
+                "LCODE_2": "BA0020",
+                "WADMKC": "TARIK",
+                "WADMKK": "SIDOARJO",
+                "WADMPR": "JAWA TIMUR",
+                "TIPADM": 0,
+                "SHAPE_Leng": 0.06277983035,
+                "SHAPE_Area": 0.00013018756
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.515949632000115,
+                    -7.461010795999925,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "LUAS": 0.0,
+                "REMARK": "Fasilitas Kesehatan Lainnya",
+                "TIPSHT": 999,
+                "LCODE": "GI0020",
+                "NAMOBJ_2": "KEMUNING",
+                "REMARK_2": "Wilayah Administrasi Keluruhan/Desa",
+                "LUASWH": 0.0,
+                "LCODE_2": "BA0020",
+                "WADMKC": "TARIK",
+                "WADMKK": "SIDOARJO",
+                "WADMPR": "JAWA TIMUR",
+                "TIPADM": 0,
+                "SHAPE_Leng": 0.07760942511,
+                "SHAPE_Area": 0.00022872924
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.522728334000021,
+                    -7.44283717199994,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "LUAS": 0.0,
+                "REMARK": "Fasilitas Kesehatan Lainnya",
+                "TIPSHT": 999,
+                "LCODE": "GI0020",
+                "NAMOBJ_2": "GEMPOLKLUTUK",
+                "REMARK_2": "Wilayah Administrasi Keluruhan/Desa",
+                "LUASWH": 0.0,
+                "LCODE_2": "BA0020",
+                "WADMKC": "TARIK",
+                "WADMKK": "SIDOARJO",
+                "WADMPR": "JAWA TIMUR",
+                "TIPADM": 0,
+                "SHAPE_Leng": 0.06493221572000001,
+                "SHAPE_Area": 0.00012698204
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.550922790000072,
+                    -7.449652749999927,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "LUAS": 0.0,
+                "REMARK": "Fasilitas Kesehatan Lainnya",
+                "TIPSHT": 999,
+                "LCODE": "GI0020",
+                "NAMOBJ_2": "TROPODO",
+                "REMARK_2": "Wilayah Administrasi Keluruhan/Desa",
+                "LUASWH": 0.0,
+                "LCODE_2": "BA0020",
+                "WADMKC": "BALONGBENDO",
+                "WADMKK": "SIDOARJO",
+                "WADMPR": "JAWA TIMUR",
+                "TIPADM": 0,
+                "SHAPE_Leng": 0.07606268878,
+                "SHAPE_Area": 0.00022095578
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.567221914000015,
+                    -7.429024467999966,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "LUAS": 0.0,
+                "REMARK": "Fasilitas Kesehatan Lainnya",
+                "TIPSHT": 999,
+                "LCODE": "GI0020",
+                "NAMOBJ_2": "TEMU",
+                "REMARK_2": "Wilayah Administrasi Keluruhan/Desa",
+                "LUASWH": 0.0,
+                "LCODE_2": "BA0020",
+                "WADMKC": "PRAMBON",
+                "WADMKK": "SIDOARJO",
+                "WADMPR": "JAWA TIMUR",
+                "TIPADM": 0,
+                "SHAPE_Leng": 0.04685080761,
+                "SHAPE_Area": 8.144821e-05
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.569693978000032,
+                    -7.447805949999974,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "LUAS": 0.0,
+                "REMARK": "Fasilitas Kesehatan Lainnya",
+                "TIPSHT": 999,
+                "LCODE": "GI0020",
+                "NAMOBJ_2": "WONOKALANG",
+                "REMARK_2": "Wilayah Administrasi Keluruhan/Desa",
+                "LUASWH": 0.0,
+                "LCODE_2": "BA0020",
+                "WADMKC": "WONOAYU",
+                "WADMKK": "SIDOARJO",
+                "WADMPR": "JAWA TIMUR",
+                "TIPADM": 0,
+                "SHAPE_Leng": 0.06085665603,
+                "SHAPE_Area": 0.00014478042
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.603545992000022,
+                    -7.428407575999927,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "LUAS": 0.0,
+                "REMARK": "Fasilitas Kesehatan Lainnya",
+                "TIPSHT": 999,
+                "LCODE": "GI0020",
+                "NAMOBJ_2": "SIMOANGIN-ANGIN",
+                "REMARK_2": "Wilayah Administrasi Keluruhan/Desa",
+                "LUASWH": 0.0,
+                "LCODE_2": "BA0020",
+                "WADMKC": "WONOAYU",
+                "WADMKK": "SIDOARJO",
+                "WADMPR": "JAWA TIMUR",
+                "TIPADM": 0,
+                "SHAPE_Leng": 0.05125212131,
+                "SHAPE_Area": 0.00011741436
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.604185991,
+                    -7.435913812999956,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "LUAS": 0.0,
+                "REMARK": "Fasilitas Kesehatan Lainnya",
+                "TIPSHT": 999,
+                "LCODE": "GI0020",
+                "NAMOBJ_2": "CANDINEGORO",
+                "REMARK_2": "Wilayah Administrasi Keluruhan/Desa",
+                "LUASWH": 0.0,
+                "LCODE_2": "BA0020",
+                "WADMKC": "KRIAN",
+                "WADMKK": "SIDOARJO",
+                "WADMPR": "JAWA TIMUR",
+                "TIPADM": 0,
+                "SHAPE_Leng": 0.06640711272,
+                "SHAPE_Area": 0.00014834335
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.605137087000116,
+                    -7.405685091999942,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "LUAS": 0.0,
+                "REMARK": "Fasilitas Kesehatan Lainnya",
+                "TIPSHT": 999,
+                "LCODE": "GI0020",
+                "NAMOBJ_2": "KEL. KRIAN",
+                "REMARK_2": "Wilayah Administrasi Keluruhan/Desa",
+                "LUASWH": 0.0,
+                "LCODE_2": "BA0020",
+                "WADMKC": "KRIAN",
+                "WADMKK": "SIDOARJO",
+                "WADMPR": "JAWA TIMUR",
+                "TIPADM": 0,
+                "SHAPE_Leng": 0.04254304654,
+                "SHAPE_Area": 6.536599e-05
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.583674101000042,
+                    -7.410047621999979,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "LUAS": 0.0,
+                "REMARK": "Fasilitas Kesehatan Lainnya",
+                "TIPSHT": 999,
+                "LCODE": "GI0020",
+                "NAMOBJ_2": "KATERUNGAN",
+                "REMARK_2": "Wilayah Administrasi Keluruhan/Desa",
+                "LUASWH": 0.0,
+                "LCODE_2": "BA0020",
+                "WADMKC": "BALONGBENDO",
+                "WADMKK": "SIDOARJO",
+                "WADMPR": "JAWA TIMUR",
+                "TIPADM": 0,
+                "SHAPE_Leng": 0.04156729163,
+                "SHAPE_Area": 5.252562e-05
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.582801398000015,
+                    -7.416299715999969,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "LUAS": 0.0,
+                "REMARK": "Fasilitas Kesehatan Lainnya",
+                "TIPSHT": 999,
+                "LCODE": "GI0020",
+                "NAMOBJ_2": "SUWALUH",
+                "REMARK_2": "Wilayah Administrasi Keluruhan/Desa",
+                "LUASWH": 0.0,
+                "LCODE_2": "BA0020",
+                "WADMKC": "BALONGBENDO",
+                "WADMKK": "SIDOARJO",
+                "WADMPR": "JAWA TIMUR",
+                "TIPADM": 0,
+                "SHAPE_Leng": 0.04912922042,
+                "SHAPE_Area": 0.00010036792
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.539804305000075,
+                    -7.41277981199994,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "LUAS": 0.0,
+                "REMARK": "Fasilitas Kesehatan Lainnya",
+                "TIPSHT": 999,
+                "LCODE": "GI0020",
+                "NAMOBJ_2": "SEDURI",
+                "REMARK_2": "Wilayah Administrasi Keluruhan/Desa",
+                "LUASWH": 0.0,
+                "LCODE_2": "BA0020",
+                "WADMKC": "BALONGBENDO",
+                "WADMKK": "SIDOARJO",
+                "WADMPR": "JAWA TIMUR",
+                "TIPADM": 0,
+                "SHAPE_Leng": 0.05301417657,
+                "SHAPE_Area": 0.00011147059
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.515688211000111,
+                    -7.415132201999938,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "LUAS": 0.0,
+                "REMARK": "Fasilitas Kesehatan Lainnya",
+                "TIPSHT": 999,
+                "LCODE": "GI0020",
+                "NAMOBJ_2": "BAKUNGMENGGUNGAN",
+                "REMARK_2": "Wilayah Administrasi Keluruhan/Desa",
+                "LUASWH": 0.0,
+                "LCODE_2": "BA0020",
+                "WADMKC": "BALONGBENDO",
+                "WADMKK": "SIDOARJO",
+                "WADMPR": "JAWA TIMUR",
+                "TIPADM": 0,
+                "SHAPE_Leng": 0.02292468849,
+                "SHAPE_Area": 2.333387e-05
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.502225758,
+                    -7.416459888999952,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "LUAS": 0.0,
+                "REMARK": "Fasilitas Kesehatan Lainnya",
+                "TIPSHT": 999,
+                "LCODE": "GI0020",
+                "NAMOBJ_2": "PONOKAWAN",
+                "REMARK_2": "Wilayah Administrasi Keluruhan/Desa",
+                "LUASWH": 0.0,
+                "LCODE_2": "BA0020",
+                "WADMKC": "KRIAN",
+                "WADMKK": "SIDOARJO",
+                "WADMPR": "JAWA TIMUR",
+                "TIPADM": 0,
+                "SHAPE_Leng": 0.03706158306,
+                "SHAPE_Area": 7.081658e-05
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.599757679000049,
+                    -7.392913122999971,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "LUAS": 0.0,
+                "REMARK": "Fasilitas Kesehatan Lainnya",
+                "TIPSHT": 999,
+                "LCODE": "GI0020",
+                "NAMOBJ_2": "BARENGKRAJAN",
+                "REMARK_2": "Wilayah Administrasi Keluruhan/Desa",
+                "LUASWH": 0.0,
+                "LCODE_2": "BA0020",
+                "WADMKC": "KRIAN",
+                "WADMKK": "SIDOARJO",
+                "WADMPR": "JAWA TIMUR",
+                "TIPADM": 0,
+                "SHAPE_Leng": 0.07486838627,
+                "SHAPE_Area": 0.00018303847
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.606652461000067,
+                    -7.380186326999933,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "LUAS": 0.0,
+                "REMARK": "Fasilitas Kesehatan Lainnya",
+                "TIPSHT": 999,
+                "LCODE": "GI0020",
+                "NAMOBJ_2": "SIDOREJO",
+                "REMARK_2": "Wilayah Administrasi Keluruhan/Desa",
+                "LUASWH": 0.0,
+                "LCODE_2": "BA0020",
+                "WADMKC": "KRIAN",
+                "WADMKK": "SIDOARJO",
+                "WADMPR": "JAWA TIMUR",
+                "TIPADM": 0,
+                "SHAPE_Leng": 0.0727433318,
+                "SHAPE_Area": 0.00017040952
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.61542565000002,
+                    -7.376463952999927,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "LUAS": 0.0,
+                "REMARK": "Fasilitas Kesehatan Lainnya",
+                "TIPSHT": 999,
+                "LCODE": "GI0020",
+                "NAMOBJ_2": "SIDOREJO",
+                "REMARK_2": "Wilayah Administrasi Keluruhan/Desa",
+                "LUASWH": 0.0,
+                "LCODE_2": "BA0020",
+                "WADMKC": "KRIAN",
+                "WADMKK": "SIDOARJO",
+                "WADMPR": "JAWA TIMUR",
+                "TIPADM": 0,
+                "SHAPE_Leng": 0.0727433318,
+                "SHAPE_Area": 0.00017040952
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.622961897000096,
+                    -7.380277608999961,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "LUAS": 0.0,
+                "REMARK": "Fasilitas Kesehatan Lainnya",
+                "TIPSHT": 999,
+                "LCODE": "GI0020",
+                "NAMOBJ_2": "TERIK",
+                "REMARK_2": "Wilayah Administrasi Keluruhan/Desa",
+                "LUASWH": 0.0,
+                "LCODE_2": "BA0020",
+                "WADMKC": "KRIAN",
+                "WADMKK": "SIDOARJO",
+                "WADMPR": "JAWA TIMUR",
+                "TIPADM": 0,
+                "SHAPE_Leng": 0.04635565192,
+                "SHAPE_Area": 0.00011709501
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.600457182000014,
+                    -7.41354307499995,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "LUAS": 0.0,
+                "REMARK": "Fasilitas Kesehatan Lainnya",
+                "TIPSHT": 999,
+                "LCODE": "GI0020",
+                "NAMOBJ_2": "PRAMBON",
+                "REMARK_2": "Wilayah Administrasi Keluruhan/Desa",
+                "LUASWH": 0.0,
+                "LCODE_2": "BA0020",
+                "WADMKC": "PRAMBON",
+                "WADMKK": "SIDOARJO",
+                "WADMPR": "JAWA TIMUR",
+                "TIPADM": 0,
+                "SHAPE_Leng": 0.06973270942,
+                "SHAPE_Area": 0.00013609771
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.560672885000031,
+                    -7.474311763999935,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "LUAS": 0.0,
+                "REMARK": "Fasilitas Kesehatan Lainnya",
+                "TIPSHT": 999,
+                "LCODE": "GI0020",
+                "NAMOBJ_2": "JATIKALANG",
+                "REMARK_2": "Wilayah Administrasi Keluruhan/Desa",
+                "LUASWH": 0.0,
+                "LCODE_2": "BA0020",
+                "WADMKC": "KRIAN",
+                "WADMKK": "SIDOARJO",
+                "WADMPR": "JAWA TIMUR",
+                "TIPADM": 0,
+                "SHAPE_Leng": 0.04684249979,
+                "SHAPE_Area": 0.00011036739
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.624225633000037,
+                    -7.39289292199993,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "LUAS": 0.0,
+                "REMARK": "Fasilitas Kesehatan Lainnya",
+                "TIPSHT": 999,
+                "LCODE": "GI0020",
+                "NAMOBJ_2": "SADANG",
+                "REMARK_2": "Wilayah Administrasi Keluruhan/Desa",
+                "LUASWH": 0.0,
+                "LCODE_2": "BA0020",
+                "WADMKC": "TAMAN",
+                "WADMKK": "SIDOARJO",
+                "WADMPR": "JAWA TIMUR",
+                "TIPADM": 0,
+                "SHAPE_Leng": 0.03730111811,
+                "SHAPE_Area": 5.807616e-05
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.678235039000015,
+                    -7.37715105999996,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "LUAS": 0.0,
+                "REMARK": "Fasilitas Kesehatan Lainnya",
+                "TIPSHT": 999,
+                "LCODE": "GI0020",
+                "NAMOBJ_2": "JOGOSATRU",
+                "REMARK_2": "Wilayah Administrasi Keluruhan/Desa",
+                "LUASWH": 0.0,
+                "LCODE_2": "BA0020",
+                "WADMKC": "SUKODONO",
+                "WADMKK": "SIDOARJO",
+                "WADMPR": "JAWA TIMUR",
+                "TIPADM": 0,
+                "SHAPE_Leng": 0.03773754434,
+                "SHAPE_Area": 7.622748e-05
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.631530851000093,
+                    -7.398512671999981,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "LUAS": 0.0,
+                "REMARK": "Fasilitas Kesehatan Lainnya",
+                "TIPSHT": 999,
+                "LCODE": "GI0020",
+                "NAMOBJ_2": "PEKARUNGAN",
+                "REMARK_2": "Wilayah Administrasi Keluruhan/Desa",
+                "LUASWH": 0.0,
+                "LCODE_2": "BA0020",
+                "WADMKC": "SUKODONO",
+                "WADMKK": "SIDOARJO",
+                "WADMPR": "JAWA TIMUR",
+                "TIPADM": 0,
+                "SHAPE_Leng": 0.06642258226,
+                "SHAPE_Area": 0.00015597442
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.673017459000107,
+                    -7.404646342999968,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "LUAS": 0.0,
+                "REMARK": "Fasilitas Kesehatan Lainnya",
+                "TIPSHT": 999,
+                "LCODE": "GI0020",
+                "NAMOBJ_2": "PLAOSAN",
+                "REMARK_2": "Wilayah Administrasi Keluruhan/Desa",
+                "LUASWH": 0.0,
+                "LCODE_2": "BA0020",
+                "WADMKC": "WONOAYU",
+                "WADMKK": "SIDOARJO",
+                "WADMPR": "JAWA TIMUR",
+                "TIPADM": 0,
+                "SHAPE_Leng": 0.04774310833,
+                "SHAPE_Area": 9.226286e-05
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.626613210000073,
+                    -7.412620745999959,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "LUAS": 0.0,
+                "REMARK": "Fasilitas Kesehatan Lainnya",
+                "TIPSHT": 999,
+                "LCODE": "GI0020",
+                "NAMOBJ_2": "BECIRONGENGOR",
+                "REMARK_2": "Wilayah Administrasi Keluruhan/Desa",
+                "LUASWH": 0.0,
+                "LCODE_2": "BA0020",
+                "WADMKC": "WONOAYU",
+                "WADMKK": "SIDOARJO",
+                "WADMPR": "JAWA TIMUR",
+                "TIPADM": 0,
+                "SHAPE_Leng": 0.05686992364,
+                "SHAPE_Area": 0.00015178074
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.639367415000038,
+                    -7.414478497999937,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "LUAS": 0.0,
+                "REMARK": "Fasilitas Kesehatan Lainnya",
+                "TIPSHT": 999,
+                "LCODE": "GI0020",
+                "NAMOBJ_2": "BANJARKEMANTREN",
+                "REMARK_2": "Wilayah Administrasi Keluruhan/Desa",
+                "LUASWH": 0.0,
+                "LCODE_2": "BA0020",
+                "WADMKC": "BUDURAN",
+                "WADMKK": "SIDOARJO",
+                "WADMPR": "JAWA TIMUR",
+                "TIPADM": 0,
+                "SHAPE_Leng": 0.07199336404,
+                "SHAPE_Area": 0.00015306723
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.72707480300005,
+                    -7.418748764999975,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "LUAS": 0.0,
+                "REMARK": "Fasilitas Kesehatan Lainnya",
+                "TIPSHT": 999,
+                "LCODE": "GI0020",
+                "NAMOBJ_2": "SUKOREJO",
+                "REMARK_2": "Wilayah Administrasi Keluruhan/Desa",
+                "LUASWH": 0.0,
+                "LCODE_2": "BA0020",
+                "WADMKC": "BUDURAN",
+                "WADMKK": "SIDOARJO",
+                "WADMPR": "JAWA TIMUR",
+                "TIPADM": 0,
+                "SHAPE_Leng": 0.0360194487,
+                "SHAPE_Area": 7.577281e-05
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.717450337000059,
+                    -7.423295872999972,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "LUAS": 0.0,
+                "REMARK": "Fasilitas Kesehatan Lainnya",
+                "TIPSHT": 999,
+                "LCODE": "GI0020",
+                "NAMOBJ_2": "SIDOKEPUNG",
+                "REMARK_2": "Wilayah Administrasi Keluruhan/Desa",
+                "LUASWH": 0.0,
+                "LCODE_2": "BA0020",
+                "WADMKC": "BUDURAN",
+                "WADMKK": "SIDOARJO",
+                "WADMPR": "JAWA TIMUR",
+                "TIPADM": 0,
+                "SHAPE_Leng": 0.07717970925000001,
+                "SHAPE_Area": 0.00016645102
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.705930662000014,
+                    -7.421689888999936,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "LUAS": 0.0,
+                "REMARK": "Fasilitas Kesehatan Lainnya",
+                "TIPSHT": 999,
+                "LCODE": "GI0020",
+                "NAMOBJ_2": "JATI",
+                "REMARK_2": "Wilayah Administrasi Keluruhan/Desa",
+                "LUASWH": 0.0,
+                "LCODE_2": "BA0020",
+                "WADMKC": "SIDOARJO",
+                "WADMKK": "SIDOARJO",
+                "WADMPR": "JAWA TIMUR",
+                "TIPADM": 0,
+                "SHAPE_Leng": 0.05201222531,
+                "SHAPE_Area": 0.00010630712
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.701659712000037,
+                    -7.447006922999947,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "LUAS": 0.0,
+                "REMARK": "Fasilitas Kesehatan Lainnya",
+                "TIPSHT": 999,
+                "LCODE": "GI0020",
+                "NAMOBJ_2": "BLURU KIDUL",
+                "REMARK_2": "Wilayah Administrasi Keluruhan/Desa",
+                "LUASWH": 0.0,
+                "LCODE_2": "BA0020",
+                "WADMKC": "SIDOARJO",
+                "WADMKK": "SIDOARJO",
+                "WADMPR": "JAWA TIMUR",
+                "TIPADM": 0,
+                "SHAPE_Leng": 0.09704996065,
+                "SHAPE_Area": 0.00023263576
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.733182353000075,
+                    -7.449574731999974,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "LUAS": 0.0,
+                "REMARK": "Fasilitas Kesehatan Lainnya",
+                "TIPSHT": 999,
+                "LCODE": "GI0020",
+                "NAMOBJ_2": "WONOKASIAN",
+                "REMARK_2": "Wilayah Administrasi Keluruhan/Desa",
+                "LUASWH": 0.0,
+                "LCODE_2": "BA0020",
+                "WADMKC": "WONOAYU",
+                "WADMKK": "SIDOARJO",
+                "WADMPR": "JAWA TIMUR",
+                "TIPADM": 0,
+                "SHAPE_Leng": 0.08954502148,
+                "SHAPE_Area": 0.00020641612
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.655672634000098,
+                    -7.428443293999976,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "LUAS": 0.0,
+                "REMARK": "Fasilitas Kesehatan Lainnya",
+                "TIPSHT": 999,
+                "LCODE": "GI0020",
+                "NAMOBJ_2": "JIMBARAN KULON",
+                "REMARK_2": "Wilayah Administrasi Keluruhan/Desa",
+                "LUASWH": 0.0,
+                "LCODE_2": "BA0020",
+                "WADMKC": "WONOAYU",
+                "WADMKK": "SIDOARJO",
+                "WADMPR": "JAWA TIMUR",
+                "TIPADM": 0,
+                "SHAPE_Leng": 0.03160004046,
+                "SHAPE_Area": 4.155523e-05
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.628791415000023,
+                    -7.440675843999941,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "LUAS": 0.0,
+                "REMARK": "Fasilitas Kesehatan Lainnya",
+                "TIPSHT": 999,
+                "LCODE": "GI0020",
+                "NAMOBJ_2": "KEMANTREN",
+                "REMARK_2": "Wilayah Administrasi Keluruhan/Desa",
+                "LUASWH": 0.0,
+                "LCODE_2": "BA0020",
+                "WADMKC": "TULANGAN",
+                "WADMKK": "SIDOARJO",
+                "WADMPR": "JAWA TIMUR",
+                "TIPADM": 0,
+                "SHAPE_Leng": 0.06233282943,
+                "SHAPE_Area": 0.00013216483
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.649255193000045,
+                    -7.464842996999948,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "LUAS": 0.0,
+                "REMARK": "Fasilitas Kesehatan Lainnya",
+                "TIPSHT": 999,
+                "LCODE": "GI0020",
+                "NAMOBJ_2": "KEDONDONG",
+                "REMARK_2": "Wilayah Administrasi Keluruhan/Desa",
+                "LUASWH": 0.0,
+                "LCODE_2": "BA0020",
+                "WADMKC": "TULANGAN",
+                "WADMKK": "SIDOARJO",
+                "WADMPR": "JAWA TIMUR",
+                "TIPADM": 0,
+                "SHAPE_Leng": 0.04912142743,
+                "SHAPE_Area": 0.0001066529
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.672686444000078,
+                    -7.477731326999958,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "LUAS": 0.0,
+                "REMARK": "Fasilitas Kesehatan Lainnya",
+                "TIPSHT": 999,
+                "LCODE": "GI0020",
+                "NAMOBJ_2": "RANDEGAN",
+                "REMARK_2": "Wilayah Administrasi Keluruhan/Desa",
+                "LUASWH": 0.0,
+                "LCODE_2": "BA0020",
+                "WADMKC": "TANGGULANGIN",
+                "WADMKK": "SIDOARJO",
+                "WADMPR": "JAWA TIMUR",
+                "TIPADM": 0,
+                "SHAPE_Leng": 0.06277882611000001,
+                "SHAPE_Area": 0.00018886811
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.677289318000021,
+                    -7.494554464999965,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "LUAS": 0.0,
+                "REMARK": "Fasilitas Kesehatan Lainnya",
+                "TIPSHT": 999,
+                "LCODE": "GI0020",
+                "NAMOBJ_2": "KEPADANGAN",
+                "REMARK_2": "Wilayah Administrasi Keluruhan/Desa",
+                "LUASWH": 0.0,
+                "LCODE_2": "BA0020",
+                "WADMKC": "TULANGAN",
+                "WADMKK": "SIDOARJO",
+                "WADMPR": "JAWA TIMUR",
+                "TIPADM": 0,
+                "SHAPE_Leng": 0.06279127731,
+                "SHAPE_Area": 0.00013723892
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.646416041000066,
+                    -7.482575028999975,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "LUAS": 0.0,
+                "REMARK": "Fasilitas Kesehatan Lainnya",
+                "TIPSHT": 999,
+                "LCODE": "GI0020",
+                "NAMOBJ_2": "KENONGO",
+                "REMARK_2": "Wilayah Administrasi Keluruhan/Desa",
+                "LUASWH": 0.0,
+                "LCODE_2": "BA0020",
+                "WADMKC": "TULANGAN",
+                "WADMKK": "SIDOARJO",
+                "WADMPR": "JAWA TIMUR",
+                "TIPADM": 0,
+                "SHAPE_Leng": 0.05740202445,
+                "SHAPE_Area": 0.00013610638
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.652791649000051,
+                    -7.484732734999966,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "LUAS": 0.0,
+                "REMARK": "Fasilitas Kesehatan Lainnya",
+                "TIPSHT": 999,
+                "LCODE": "GI0020",
+                "NAMOBJ_2": "GELAM",
+                "REMARK_2": "Wilayah Administrasi Keluruhan/Desa",
+                "LUASWH": 0.0,
+                "LCODE_2": "BA0020",
+                "WADMKC": "CANDI",
+                "WADMKK": "SIDOARJO",
+                "WADMPR": "JAWA TIMUR",
+                "TIPADM": 0,
+                "SHAPE_Leng": 0.0546874669,
+                "SHAPE_Area": 9.053746e-05
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.713237475000028,
+                    -7.481505715999958,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "LUAS": 0.0,
+                "REMARK": "Fasilitas Kesehatan Lainnya",
+                "TIPSHT": 999,
+                "LCODE": "GI0020",
+                "NAMOBJ_2": "SIDOWAYAH",
+                "REMARK_2": "Wilayah Administrasi Keluruhan/Desa",
+                "LUASWH": 0.0,
+                "LCODE_2": "BA0020",
+                "WADMKC": "SIDOARJO",
+                "WADMKK": "SIDOARJO",
+                "WADMPR": "JAWA TIMUR",
+                "TIPADM": 0,
+                "SHAPE_Leng": 0.02473634579,
+                "SHAPE_Area": 2.949543e-05
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.716039538000018,
+                    -7.466035310999928,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "LUAS": 0.0,
+                "REMARK": "Fasilitas Kesehatan Lainnya",
+                "TIPSHT": 999,
+                "LCODE": "GI0020",
+                "NAMOBJ_2": "KEL. BEBEKAN",
+                "REMARK_2": "Wilayah Administrasi Keluruhan/Desa",
+                "LUASWH": 0.0,
+                "LCODE_2": "BA0020",
+                "WADMKC": "TAMAN",
+                "WADMKK": "SIDOARJO",
+                "WADMPR": "JAWA TIMUR",
+                "TIPADM": 0,
+                "SHAPE_Leng": 0.05061239516,
+                "SHAPE_Area": 6.337595e-05
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.698738696000078,
+                    -7.345227456999964,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "LUAS": 0.0,
+                "REMARK": "Fasilitas Kesehatan Lainnya",
+                "TIPSHT": 999,
+                "LCODE": "GI0020",
+                "NAMOBJ_2": "MEDAENG",
+                "REMARK_2": "Wilayah Administrasi Keluruhan/Desa",
+                "LUASWH": 0.0,
+                "LCODE_2": "BA0020",
+                "WADMKC": "WARU",
+                "WADMKK": "SIDOARJO",
+                "WADMPR": "JAWA TIMUR",
+                "TIPADM": 0,
+                "SHAPE_Leng": 0.0474336876,
+                "SHAPE_Area": 0.00011284033
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.720120773000076,
+                    -7.355952110999965,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "LUAS": 0.0,
+                "REMARK": "Fasilitas Kesehatan Lainnya",
+                "TIPSHT": 999,
+                "LCODE": "GI0020",
+                "NAMOBJ_2": "KEL. NGINGAS",
+                "REMARK_2": "Wilayah Administrasi Keluruhan/Desa",
+                "LUASWH": 0.0,
+                "LCODE_2": "BA0020",
+                "WADMKC": "WARU",
+                "WADMKK": "SIDOARJO",
+                "WADMPR": "JAWA TIMUR",
+                "TIPADM": 0,
+                "SHAPE_Leng": 0.06046810269,
+                "SHAPE_Area": 0.00015474012
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.741927305000104,
+                    -7.357235077999974,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "LUAS": 0.0,
+                "REMARK": "Fasilitas Kesehatan Lainnya",
+                "TIPSHT": 999,
+                "LCODE": "GI0020",
+                "NAMOBJ_2": "BETRO",
+                "REMARK_2": "Wilayah Administrasi Keluruhan/Desa",
+                "LUASWH": 0.0,
+                "LCODE_2": "BA0020",
+                "WADMKC": "SEDATI",
+                "WADMKK": "SIDOARJO",
+                "WADMPR": "JAWA TIMUR",
+                "TIPADM": 0,
+                "SHAPE_Leng": 0.0968071833,
+                "SHAPE_Area": 0.00024426501
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.761169525000014,
+                    -7.392584136999972,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "LUAS": 0.0,
+                "REMARK": "Fasilitas Kesehatan Lainnya",
+                "TIPSHT": 999,
+                "LCODE": "GI0020",
+                "NAMOBJ_2": "KEPUHKIRIMAN",
+                "REMARK_2": "Wilayah Administrasi Keluruhan/Desa",
+                "LUASWH": 0.0,
+                "LCODE_2": "BA0020",
+                "WADMKC": "WARU",
+                "WADMKK": "SIDOARJO",
+                "WADMPR": "JAWA TIMUR",
+                "TIPADM": 0,
+                "SHAPE_Leng": 0.05353631414,
+                "SHAPE_Area": 9.000907e-05
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.766274477000024,
+                    -7.35214958399996,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "LUAS": 0.0,
+                "REMARK": "Fasilitas Kesehatan Lainnya",
+                "TIPSHT": 999,
+                "LCODE": "GI0020",
+                "NAMOBJ_2": "TROPODO",
+                "REMARK_2": "Wilayah Administrasi Keluruhan/Desa",
+                "LUASWH": 0.0,
+                "LCODE_2": "BA0020",
+                "WADMKC": "WARU",
+                "WADMKK": "SIDOARJO",
+                "WADMPR": "JAWA TIMUR",
+                "TIPADM": 0,
+                "SHAPE_Leng": 0.05240610689,
+                "SHAPE_Area": 0.00013368203
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.764446178000071,
+                    -7.362817337999957,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "LUAS": 0.0,
+                "REMARK": "Fasilitas Kesehatan Lainnya",
+                "TIPSHT": 999,
+                "LCODE": "GI0020",
+                "NAMOBJ_2": "PABEAN",
+                "REMARK_2": "Wilayah Administrasi Keluruhan/Desa",
+                "LUASWH": 0.0,
+                "LCODE_2": "BA0020",
+                "WADMKC": "SEDATI",
+                "WADMKK": "SIDOARJO",
+                "WADMPR": "JAWA TIMUR",
+                "TIPADM": 0,
+                "SHAPE_Leng": 0.06922015396,
+                "SHAPE_Area": 0.00016044236
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.763933683,
+                    -7.367198859999974,
+                    0.0
+                ]
+            }
+        }
+    ]
+}
